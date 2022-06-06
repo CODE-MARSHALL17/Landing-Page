@@ -1,0 +1,98 @@
+body{ 
+    background-color: rgba(14, 11, 11, 0.842);
+    margin: 0;
+}
+.racing{
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+.expert{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+}
+nav ul li{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    padding-right: 2rem;
+
+
+}
+nav ul li:hover{
+    color: blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+
+
+}
+header{
+    background-color: black;
+    padding: 1px;
+    position: fixed;
+    top: 0;
+
+}
+.race{
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.champ{
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+}
+.today{
+    background-image: url(ppp2.png);
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,0.87);
+}
+.text{
+    display: flex;
+
+}
+.welcome{
+    color: white;
+    font-size: 20px;
+    
+}
+.about{
+    color: white;
+    font-size:20px ;
+}
+button{
+    background-color: dimgray;
+    color: white;
+    
+}
+.vero{
+    color: gold;
+}
+.dolor{
+    color:white;
+}
+.ourcoaches{
+    display: block;
+}
+
+
+
+
+
